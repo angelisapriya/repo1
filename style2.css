@@ -1,0 +1,24 @@
+.hclass {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+
+#divid {
+  color: white;
+  width: 50%;
+  margin-left: 25%;
+  text-align: center;
+  margin-top: 100px;
+}
+
+body {
+  background-color: black;
+}
+
+.imclass {
+  border: 5px solid white;
+  width: 100%;
+}
